@@ -1,7 +1,5 @@
 Starbucks - Udacity Capstone Project
 
-# Disaster Response Pipeline Project
-
 ### Contents
 1. [Introduction](#introduction)
 2. [Motivation](#motivation)
