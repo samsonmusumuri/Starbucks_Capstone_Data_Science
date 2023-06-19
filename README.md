@@ -49,8 +49,10 @@ Libraries Used:
 
 ## File Descriptions 
 ### 1. 'data' Folder
-<br **profile.json** - demographic data for each customer />
+**profile.json** - demographic data for each customer br/>
+
 **transcript.json** - records for transactions, offers received, offers viewed, and offers completed br/>
+
 **portfolio.json** - containing offer ids and metadata about each offer (duration, type, etc.) br/>
 
 ### 2. 'imgages' Folder 
