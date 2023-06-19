@@ -49,11 +49,11 @@ Libraries Used:
 
 ## File Descriptions 
 ### 1. 'data' Folder
-**profile.json** - demographic data for each customer br/>
+**profile.json** - demographic data for each customer 
 
-**transcript.json** - records for transactions, offers received, offers viewed, and offers completed br/>
+**transcript.json** - records for transactions, offers received, offers viewed, and offers completed 
 
-**portfolio.json** - containing offer ids and metadata about each offer (duration, type, etc.) br/>
+**portfolio.json** - containing offer ids and metadata about each offer (duration, type, etc.) 
 
 ### 2. 'imgages' Folder 
 Consists screenshots of plots and result from the jupyter notebook.
