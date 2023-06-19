@@ -49,7 +49,8 @@ Libraries Used:
 ### 1. 'data' Folder
 **profile.json** - demographic data for each customer 
 
-**transcript.json** - records for transactions, offers received, offers viewed, and offers completed 
+**transcript.json** - records for transactions, offers received, offers viewed, and offers completed
+The file is too large to be uploaded in github. Hence the link for Google Drive is [here](https://drive.google.com/file/d/1cmLkbb2olAsyi0bhrwM6DMM2M_eDwnHD/view?usp=sharing) 
 
 **portfolio.json** - containing offer ids and metadata about each offer (duration, type, etc.) 
 
