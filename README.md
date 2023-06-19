@@ -56,7 +56,7 @@ Libraries Used:
 ### 2. 'imgages' Folder 
 Consists screenshots of plots and result from the jupyter notebook.
 
-### 3. `Starbucks_Capstone_notebook.ipynb`
+### 3. `Starbucks_Capstone_notebook.ipynb` -  This Jupyter notebook demonstrates the application of various machine learning classification algorithms to predict customer behavior on the Starbucks rewards mobile app, aiming to optimize the effectiveness of marketing campaigns.
 
 
 <a name="license"></a>
