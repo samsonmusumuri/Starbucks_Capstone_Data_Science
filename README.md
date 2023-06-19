@@ -1,4 +1,4 @@
-Starbucks - Udacity Capstone Project
+# Starbucks - Udacity Capstone Project
 
 ### Contents
 1. [Introduction](#introduction)
