@@ -61,7 +61,6 @@ Consists screenshots of plots and result from the jupyter notebook.
 
 Link to my article on [Medium]([https://medium.com/@samsonmusumuri/top-5-online-certification-websites-for-aspiring-coders-according-to-stackoverflow-survey-2022-13b252ae31cb](https://medium.com/@samsonmusumuri/analyzing-customer-behavior-in-starbucks-predictive-modeling-for-offer-completion-866d9cb7b633)https://medium.com/@samsonmusumuri/analyzing-customer-behavior-in-starbucks-predictive-modeling-for-offer-completion-866d9cb7b633).
 
-
 <a name="license"></a>
 
 ## License 
